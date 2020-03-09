@@ -6,4 +6,5 @@ def getKey():
      f.close()
 
 def login(account,password, ):
-     if account ==
+    if account == "tony":
+        print('hi tony!')
